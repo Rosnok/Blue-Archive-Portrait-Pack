@@ -27,6 +27,7 @@
 			"graphics/portraits/ba_kaiser_vip.png",
 			"graphics/portraits/ba_phrenapates.png",
 			"graphics/portraits/ba_namelesspriest.png",
+			"graphics/portraits/ba_sensei.png",
 		],
 		"standard_female":[
 			"graphics/portraits/ba_airi.png",
@@ -212,7 +213,7 @@
 			"graphics/portraits/ba_shizuko.png",
 			"graphics/portraits/ba_shizuko_swm.png",
 			"graphics/portraits/ba_shun.png",
-			"graphics/portraits/ba_shun_kid.png",
+			"graphics/portraits/ba_shun_mini.png",
 			"graphics/portraits/ba_sora.png",
 			"graphics/portraits/ba_sumire.png",
 			"graphics/portraits/ba_suzumi.png",
